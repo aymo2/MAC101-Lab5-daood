@@ -1,3 +1,4 @@
 # MAC101-Lab5-daood
 
-To Do: Name + ID
+Name: Daood Ayaz\
+Id: 24595923
